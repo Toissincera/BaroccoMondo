@@ -51,7 +51,7 @@ function Navbar() {
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
-                WOMENN
+                Women
               </a>
               <ul class="dropdown-menu border-secondary rounded">
                 <Link
