@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "./NavBar.css";
 import BaroccoVECTOR from "./baroccoVECTOR.png";
 
 function Navbar() {
@@ -52,7 +51,7 @@ function Navbar() {
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
-                Women
+                WOMENN
               </a>
               <ul class="dropdown-menu border-secondary rounded">
                 <Link
