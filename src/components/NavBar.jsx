@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <nav
       class="navbar navbar-expand-sm navbar-dark px-4"
-      aria-label="Third navbar example"
+      aria-label="SecondUZ navbar example"
       style={{ backgroundColor: "#1a1a1a" }}
     >
       <div
