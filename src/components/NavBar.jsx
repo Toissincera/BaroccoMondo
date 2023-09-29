@@ -53,7 +53,7 @@ function Navbar() {
               >
                 Women
               </a>
-              <ul class="dropdown-menu border-secondary rounded">
+              <ul class="dropdown-menu  border-secondary rounded">
                 <Link
                   to="/women/dress"
                   style={{ textDecoration: "none" }}
