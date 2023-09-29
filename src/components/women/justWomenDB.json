@@ -1,0 +1,146 @@
+[
+  {
+    "category": "women",
+    "type": "dress",
+    "product": "womendress1",
+    "price": 4219,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "dress",
+    "product": "womendress2",
+    "price": 3585,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "dress",
+    "product": "womendress3",
+    "price": 6353,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "dress",
+    "product": "womendress4",
+    "price": 2107,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "dress",
+    "product": "womendress5",
+    "price": 1463,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "dress",
+    "product": "womendress6",
+    "price": 1895,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "skirt",
+    "product": "womenskirt1",
+    "price": 2400,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "skirt",
+    "product": "womenskirt2",
+    "price": 2200,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "skirt",
+    "product": "womenskirt3",
+    "price": 1100,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "top",
+    "product": "womentop1",
+    "price": 3100,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "top",
+    "product": "womentop2",
+    "price": 2600,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "top",
+    "product": "womentop3",
+    "price": 2450,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "underwear",
+    "product": "womenunderwear1",
+    "price": 640,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "underwear",
+    "product": "womenunderwear2",
+    "price": 560,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "bra",
+    "product": "womenbra1",
+    "price": 520,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  },
+  {
+    "category": "women",
+    "type": "bra",
+    "product": "womenbra2",
+    "price": 590,
+    "primSRC": "",
+    "secSRC": "",
+    "availability": "TRUE"
+  }
+]
